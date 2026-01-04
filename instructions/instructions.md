@@ -69,3 +69,4 @@
 With these instructions, you can use TumblrTextTint to format your Tumblr blog posts with custom colors for your text!
 
 **Note:** _Make sure that the HEX code you enter is the correct value for your desired colour. When in doubt, use the colour picker!_
+
